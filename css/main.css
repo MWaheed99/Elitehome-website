@@ -41,7 +41,6 @@ body {
 	background-color: #f9fafb;
 	color: var(--white-color);
 	font-family: "Exo", sans-serif;
-	overflow-x: hidden;
 	position: relative;
 	scroll-behavior: smooth;
 }
